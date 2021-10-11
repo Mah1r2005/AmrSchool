@@ -1,0 +1,28 @@
+#Navbar{
+  background-image:linear-gradient(to left,#00e6e6,#00cccc);
+  padding: 11px; 
+}
+
+#Homepage{
+    background-color:White;
+    background-image:url("./Images/Image1.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding: 195px;
+}
+
+body{
+   font-family:cursive;
+   color:black;
+   background-image:linear-gradient(to left,#00e6e6,#00cccc);
+}
+
+#Services{
+   background-image:linear-gradient(to left,#00e6e6,#00cccc);
+}
+
+#footer{
+    padding: 60px;
+    background-image:linear-gradient(to left,#00b3b3,#009999);
+    color:white;
+}
